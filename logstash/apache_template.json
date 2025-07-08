@@ -1,6 +1,6 @@
 {
 
-  "template": "apache_elastic_example",
+  "template": "logstash_apache",
   "settings": {
      "index.refresh_interval": "5s"
   },
